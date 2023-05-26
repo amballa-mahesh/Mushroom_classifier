@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 Readme file.
 
@@ -49,3 +50,6 @@ from the front end user interface get the values of selected feilds and save the
 downloadt the data from the database and share....
 
 
+=======
+Please this file
+>>>>>>> 35a0fe274b8c4798093b9a92c5571d64e63502ff
