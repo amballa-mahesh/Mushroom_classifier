@@ -20,6 +20,10 @@ logging.basicConfig(filename= 'logs.log',
 
 logging.info('libraries loaded...')
 
+     
+loaded_model = joblib.load('mushroom_final_model.pkl')
+logging.info('Model Loaded..')
+
 app = Flask(__name__)
 
 
@@ -153,9 +157,7 @@ def submit():
      test = pd.DataFrame([data],columns =features)
      logging.info('Data frame created..')
      print(test.shape)   
-     
-     loaded_model = joblib.load('mushroom_final_model.pkl')
-     logging.info('Model Loaded..')
+
      logging.info('Data sent to model for prediction..')
      y_pred = loaded_model.predict(test)
      res = ""
@@ -202,7 +204,7 @@ def submit():
      mydb.commit()  
 
      #redering template...   
-     return render_template('result.html',result = y_pred) 
+     return render_template('result.html',result = y_pred)
      
 
 

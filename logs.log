@@ -1525,3 +1525,122 @@
 2023-05-26 14:38:41 INFO-Prediction done sucessfully
 2023-05-26 14:38:41 INFO-Predcited as - Edible Mushroom!
 2023-05-26 14:38:41 INFO-127.0.0.1 - - [26/May/2023 14:38:41] "POST /submit HTTP/1.1" 200 -
+2023-05-26 15:10:57 INFO-libraries loaded...
+2023-05-26 15:10:57 INFO-[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-05-26 15:10:57 INFO-[33mPress CTRL+C to quit[0m
+2023-05-26 15:10:57 INFO- * Restarting with stat
+2023-05-26 15:10:58 INFO-libraries loaded...
+2023-05-26 15:10:58 WARNING- * Debugger is active!
+2023-05-26 15:10:58 INFO- * Debugger PIN: 475-743-064
+2023-05-26 15:11:09 INFO-127.0.0.1 - - [26/May/2023 15:11:09] "GET / HTTP/1.1" 200 -
+2023-05-26 15:11:14 INFO-Empty numpy array created
+2023-05-26 15:11:14 INFO-Date Captured from web api..
+2023-05-26 15:11:14 INFO-Data frame created..
+2023-05-26 15:11:15 INFO-Model Loaded..
+2023-05-26 15:11:15 INFO-Data sent to model for prediction..
+2023-05-26 15:11:15 INFO-Prediction done sucessfully
+2023-05-26 15:11:15 INFO-Predcited as - Posionous Mushroom!
+2023-05-26 15:11:15 INFO-127.0.0.1 - - [26/May/2023 15:11:15] "POST /submit HTTP/1.1" 200 -
+2023-05-26 15:11:22 INFO-Empty numpy array created
+2023-05-26 15:11:22 INFO-Date Captured from web api..
+2023-05-26 15:11:22 INFO-Data frame created..
+2023-05-26 15:11:23 INFO-Model Loaded..
+2023-05-26 15:11:23 INFO-Data sent to model for prediction..
+2023-05-26 15:11:23 INFO-Prediction done sucessfully
+2023-05-26 15:11:23 INFO-Predcited as - Posionous Mushroom!
+2023-05-26 15:11:23 INFO-127.0.0.1 - - [26/May/2023 15:11:23] "POST /submit HTTP/1.1" 200 -
+2023-05-26 15:11:23 INFO-127.0.0.1 - - [26/May/2023 15:11:23] "GET / HTTP/1.1" 200 -
+2023-05-26 15:11:27 INFO-Empty numpy array created
+2023-05-26 15:11:27 INFO-Date Captured from web api..
+2023-05-26 15:11:27 INFO-Data frame created..
+2023-05-26 15:11:28 INFO-Model Loaded..
+2023-05-26 15:11:28 INFO-Data sent to model for prediction..
+2023-05-26 15:11:28 INFO-Prediction done sucessfully
+2023-05-26 15:11:28 INFO-Predcited as - Edible Mushroom!
+2023-05-26 15:11:28 INFO-127.0.0.1 - - [26/May/2023 15:11:28] "POST /submit HTTP/1.1" 200 -
+2023-05-26 15:11:33 INFO-127.0.0.1 - - [26/May/2023 15:11:33] "GET / HTTP/1.1" 200 -
+2023-05-27 09:17:04 INFO-libraries loaded...
+2023-05-27 09:17:05 INFO-[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-05-27 09:17:05 INFO-[33mPress CTRL+C to quit[0m
+2023-05-27 09:17:05 INFO- * Restarting with stat
+2023-05-27 09:17:06 INFO-libraries loaded...
+2023-05-27 09:17:06 WARNING- * Debugger is active!
+2023-05-27 09:17:06 INFO- * Debugger PIN: 475-743-064
+2023-05-27 09:17:13 INFO-127.0.0.1 - - [27/May/2023 09:17:13] "GET / HTTP/1.1" 200 -
+2023-05-27 09:17:14 INFO-127.0.0.1 - - [27/May/2023 09:17:14] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2023-05-27 09:17:38 INFO-Empty numpy array created
+2023-05-27 09:17:38 INFO-Date Captured from web api..
+2023-05-27 09:17:38 INFO-Data frame created..
+2023-05-27 09:18:57 INFO-Model Loaded..
+2023-05-27 09:18:57 INFO-Data sent to model for prediction..
+2023-05-27 09:18:58 INFO-Prediction done sucessfully
+2023-05-27 09:18:58 INFO-Predcited as - Posionous Mushroom!
+2023-05-27 09:18:59 INFO-127.0.0.1 - - [27/May/2023 09:18:59] "POST /submit HTTP/1.1" 200 -
+2023-05-27 09:20:29 INFO-libraries loaded...
+2023-05-27 09:20:30 INFO-Model Loaded..
+2023-05-27 09:21:10 INFO-libraries loaded...
+2023-05-27 09:21:11 INFO-Model Loaded..
+2023-05-27 09:21:11 INFO-[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-05-27 09:21:11 INFO-[33mPress CTRL+C to quit[0m
+2023-05-27 09:21:11 INFO- * Restarting with stat
+2023-05-27 09:21:13 INFO-libraries loaded...
+2023-05-27 09:21:13 INFO-Model Loaded..
+2023-05-27 09:21:13 WARNING- * Debugger is active!
+2023-05-27 09:21:13 INFO- * Debugger PIN: 475-743-064
+2023-05-27 09:21:13 INFO-127.0.0.1 - - [27/May/2023 09:21:13] "GET / HTTP/1.1" 200 -
+2023-05-27 09:21:14 INFO-127.0.0.1 - - [27/May/2023 09:21:14] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2023-05-27 09:21:27 INFO-Empty numpy array created
+2023-05-27 09:21:27 INFO-Date Captured from web api..
+2023-05-27 09:21:27 INFO-Data frame created..
+2023-05-27 09:21:27 INFO-Data sent to model for prediction..
+2023-05-27 09:21:27 INFO-Prediction done sucessfully
+2023-05-27 09:21:27 INFO-Predcited as - Posionous Mushroom!
+2023-05-27 09:21:27 INFO-127.0.0.1 - - [27/May/2023 09:21:27] "POST /submit HTTP/1.1" 200 -
+2023-05-27 09:21:29 INFO-127.0.0.1 - - [27/May/2023 09:21:29] "GET / HTTP/1.1" 200 -
+2023-05-27 09:21:30 INFO-Empty numpy array created
+2023-05-27 09:21:30 INFO-Date Captured from web api..
+2023-05-27 09:21:30 INFO-Data frame created..
+2023-05-27 09:21:30 INFO-Data sent to model for prediction..
+2023-05-27 09:21:30 INFO-Prediction done sucessfully
+2023-05-27 09:21:30 INFO-Predcited as - Posionous Mushroom!
+2023-05-27 09:21:30 INFO-127.0.0.1 - - [27/May/2023 09:21:30] "POST /submit HTTP/1.1" 200 -
+2023-05-27 09:21:32 INFO-127.0.0.1 - - [27/May/2023 09:21:32] "GET / HTTP/1.1" 200 -
+2023-05-27 09:21:33 INFO-Empty numpy array created
+2023-05-27 09:21:33 INFO-Date Captured from web api..
+2023-05-27 09:21:33 INFO-Data frame created..
+2023-05-27 09:21:33 INFO-Data sent to model for prediction..
+2023-05-27 09:21:33 INFO-Prediction done sucessfully
+2023-05-27 09:21:33 INFO-Predcited as - Posionous Mushroom!
+2023-05-27 09:21:33 INFO-127.0.0.1 - - [27/May/2023 09:21:33] "POST /submit HTTP/1.1" 200 -
+2023-05-27 15:15:27 INFO-libraries loaded...
+2023-05-27 15:15:54 INFO-libraries loaded...
+2023-05-27 15:16:34 INFO-Model Loaded..
+2023-05-27 15:16:35 INFO-[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-05-27 15:16:35 INFO-[33mPress CTRL+C to quit[0m
+2023-05-27 15:16:35 INFO- * Restarting with stat
+2023-05-27 15:16:38 INFO-libraries loaded...
+2023-05-27 15:16:39 INFO-Model Loaded..
+2023-05-27 15:16:39 WARNING- * Debugger is active!
+2023-05-27 15:16:39 INFO- * Debugger PIN: 475-743-064
+2023-05-27 15:16:53 INFO-127.0.0.1 - - [27/May/2023 15:16:53] "GET / HTTP/1.1" 200 -
+2023-05-27 15:16:54 INFO-127.0.0.1 - - [27/May/2023 15:16:54] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2023-05-27 15:16:55 INFO-Empty numpy array created
+2023-05-27 15:16:55 INFO-Date Captured from web api..
+2023-05-27 15:16:55 INFO-Data frame created..
+2023-05-27 15:16:55 INFO-Data sent to model for prediction..
+2023-05-27 15:16:55 INFO-Prediction done sucessfully
+2023-05-27 15:16:55 INFO-Predcited as - Posionous Mushroom!
+2023-05-27 15:16:55 INFO-127.0.0.1 - - [27/May/2023 15:16:55] "POST /submit HTTP/1.1" 200 -
+2023-05-27 15:16:56 INFO-127.0.0.1 - - [27/May/2023 15:16:56] "GET / HTTP/1.1" 200 -
+2023-05-27 15:16:57 INFO-127.0.0.1 - - [27/May/2023 15:16:57] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2023-05-27 15:16:57 INFO-Empty numpy array created
+2023-05-27 15:16:57 INFO-Date Captured from web api..
+2023-05-27 15:16:57 INFO-Data frame created..
+2023-05-27 15:16:57 INFO-Data sent to model for prediction..
+2023-05-27 15:16:57 INFO-Prediction done sucessfully
+2023-05-27 15:16:57 INFO-Predcited as - Posionous Mushroom!
+2023-05-27 15:16:57 INFO-127.0.0.1 - - [27/May/2023 15:16:57] "POST /submit HTTP/1.1" 200 -
